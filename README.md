@@ -18,7 +18,7 @@ This project is an Intelligent Video Surveillance System that uses a custom data
 ## Project Demo
 ### Result Demo
 A demo video showcasing the Intelligent Video Surveillance System in action can be found at 
-![Demo Video](https://drive.google.com/file/d/18YfjUhzyBxU5xdh4nZ4FvNKyILVYerDV/view?usp=sharing).
+[Demo Video](https://drive.google.com/file/d/18YfjUhzyBxU5xdh4nZ4FvNKyILVYerDV/view?usp=sharing).
 
 ## Badges
 
